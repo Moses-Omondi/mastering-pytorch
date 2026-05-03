@@ -1,0 +1,15 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Downloaded datasets (re-downloadable at runtime)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
